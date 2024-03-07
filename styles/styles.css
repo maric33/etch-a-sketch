@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#rowContainer {
+    display: flex;
+    width: 100%;
+}
+#smallContainer {
+    border: 1px solid red;
+    height: 50px;
+    width: 50px;
+}
+
